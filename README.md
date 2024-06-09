@@ -23,10 +23,6 @@ Data Analyst
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/andrewhryn"><img src="https://github-readme-stats.vercel.app/api?username=andrewhryn&show_icons=true&hide=prs,issues,contribs&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="andrewhryn's GitHub stats" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/andrewhryn/DA_Best_Place_For_A_Data-Analyst" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewhryn&repo=DA_Best_Place_For_A_Data-Analyst&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/andrewhryn/DA_Rental_Analysis_Edmonton" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewhryn&repo=DA_Rental_Analysis_Edmonton&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
