@@ -1,4 +1,4 @@
-Hi 👋 My name is Andrew Hryn
+Hi 👋 My name is Andrii Hryn
 ============================
 
 Data Analyst
