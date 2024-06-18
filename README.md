@@ -1,7 +1,7 @@
 Hi 👋 My name is Andrii Hryn
 ============================
 
-Data Analyst
+
 ------------
 
 * 🌍  I'm based in Canada
