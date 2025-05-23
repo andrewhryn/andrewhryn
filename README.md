@@ -6,7 +6,7 @@ Hi 👋 My name is Andrew Hryn
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [an.andrew.hryn@gmail.com](mailto:an.andrew.hryn@gmail.com)
-* 🧠  I'm learning Python, Pandas, NumPy, SQL, Tableau
+* 🧠  Python, Pandas, NumPy, SQL, Tableau, PowerBI
 * 🤝  I'm open to collaborating on other data projects!
 
 ### Skills
